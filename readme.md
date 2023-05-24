@@ -12,7 +12,7 @@
     - UtilitiesLegalUCIMoves: get all legal moves for active player
     - UtilitiesConvertPgnSANtoUCI: convert moves to Universal Chess Interface notation
     - StructuredPGNGame: Powerful C# Class object easily created from raw PGN ASCII multi-game text (and a specific game number).
-- **Shown below are the first two pages of the Design Tutorial**
+- **Shown below are the first two pages of the Design Tutorial (see wiki for all pages)**
 
 ![My Image](KenChessPGNPlayer/Images/Tutorial/DesignTutorial01Prerequisites.png)
 
